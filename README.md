@@ -52,5 +52,28 @@ The Terraform CLI installation instructions have changed due to gpg keyring chan
 ### Considerations for Linux Distribution
 
 This project is built against Ubunutu.
-Please consider checking your Linux Distribution and change accordingto distribution needs.
+Please consider checking your Linux Distribution and change according to distribution needs.
+
+[How to check OS Version in Linus] (
+https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/)
+
+Example of checking OS Version:
+
+```
+$ cat /etc/os-release
+
+PRETTY_NAME="Ubuntu 22.04.3 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.3 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
+```
+
 
