@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# Define the alias
+alias tf="terraform"
+
+# Check if .bash_profile exists
+if [ -f ~/.bash_profile ]; then
+  # Add the alias to .bash_profile
+  echo 'alias tf="terraform"' >> ~/.bash_profile
+  echo "Alias 'tf' added to .bash_profile"
+else
+  echo "Error: .bash_profile does not exist. Please create it and run this script again."
+fi
