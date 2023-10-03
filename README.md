@@ -5,5 +5,5 @@
 - [Week 1 Journal](journal/week1.md)
 - [Week 2 Journal](jounal/week2.md)
 
-##Extras
+## Extras
 - [Github Markdown TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)
