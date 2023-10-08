@@ -1,7 +1,7 @@
 #! /usr/bin/bash
 
 user_uuid="90bab088-bce1-4e81-9385-ca8c415b5df5" 
-token="QHh57HTyBtC5Ig.atlasv1.9X5JYJzV83YhzX3Lj77JG0qnPzGtTE15LrjJMQHWYY8L1z80yF0r9LcYycLyUrPPAyI"
+token="9b49b3fb-b8e9-483c-b703-97ba88eef8e0"
 name="New House"
 description="A new house description"
 domain_name="3xf332sdfs.cloudfront.net"
